@@ -37,7 +37,7 @@ class Watermark
 
     /**
      * Watermark constructor.
-     * @param $image ‘原图路径’
+     * @param string $image 原图路径
      * @param array $config ‘配置数组’
      */
     public function __construct($image, array $config = [])
