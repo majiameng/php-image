@@ -3,7 +3,7 @@
   "description": "图片合成，图片水印处理",
   "keywords": ["image", "php", "water", "图片水印", "图片合成"],
   "homepage": "https://github.com/majiameng/php-image",
-  "license": "MIT License",
+  "license": "MIT",
   "authors": [
     {
       "name": "JiaMeng Ma",
